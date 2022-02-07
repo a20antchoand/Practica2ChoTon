@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">News Online</string>
+
+    <string name="title_app">News Online</string>
+    <string name="subtitle_app">Please select a News section</string>
+
+
+    <string name="title_science">Titol Ciencia</string>
+    <string name="title_salut">Titol Salut</string>
+    <string name="title_sports">Titol Esports</string>
+
+    <string name="subtitle_science">Sub Ciencia</string>
+    <string name="subtitle_salut">Sub Salut</string>
+    <string name="subtitle_sports">Sub Esports</string>
+
+    <string name="article_science">Art Ciencia</string>
+    <string name="article_salut">Art Salut</string>
+    <string name="article_sports">Art Esports</string>
+
+
+    <string name="textUrl">Or open the news you like</string>
+    <string name="urlTxt">https://</string>
+    <string name="btnUrl">Go</string>
+    <string name="btnScience">Science</string>
+    <string name="btnSalut">Salut</string>
+    <string name="btnSport">Sport</string>
+    <string name="subCiencia">Sub Ciencia</string>
+
 </resources>

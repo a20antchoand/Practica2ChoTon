@@ -10,6 +10,8 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String EXTRA_MESSAGE = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,17 +27,24 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick_science_btn(View view) {
         Intent intent = new Intent(this, SecondActivity.class);
+        String message = "science";
+        intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
 
-    public void onClick_technology_btn(View view) {
-        Intent intent = new Intent(this, Technology.class);
+    public void onClick_salut_btn(View view) {
+        Intent intent = new Intent(this, SecondActivity.class);
+        String message = "salut";
+        intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
 
-    public void onClick_health_btn(View view) {
-        Intent intent = new Intent(this, Health.class);
+    public void onClick_sport_btn(View view) {
+        Intent intent = new Intent(this, SecondActivity.class);
+        String message = "sport";
+        intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
+
 
 }

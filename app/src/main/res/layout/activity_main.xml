@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="@color/white"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -11,11 +12,67 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <TextView
+            android:id="@+id/titol"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150px"
+            android:layout_marginBottom="100px"
+            android:text="@string/title_app"
+            android:textSize="60sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50px"
+            android:text="@string/subtitle_app" />
+
+        <Button
+            android:id="@+id/science"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50px"
+            android:layout_marginBottom="25px"
+            android:onClick="onClick_science_btn"
+            android:text="@string/btnScience" />
+
+        <Button
+            android:id="@+id/salut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25px"
+            android:onClick="onClick_salut_btn"
+            android:text="@string/btnSalut"/>
+
+        <Button
+            android:id="@+id/sport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick_sport_btn"
+            android:text="@string/btnSport" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200px"
+            android:text="@string/textUrl" />
+
         <EditText
             android:id="@+id/url"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hello World!" />
+            android:minHeight="48dp"
+            android:text="@string/urlTxt"/>
+
+        <Button
+            android:id="@+id/btnUrl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClick_navigate_btn"
+            android:text="@string/btnUrl" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
