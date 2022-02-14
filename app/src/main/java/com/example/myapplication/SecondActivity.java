@@ -19,6 +19,7 @@ public class SecondActivity extends AppCompatActivity {
 
         // Get the Intent that started this activity and extract the string
         Intent intent = getIntent();
+
         String message = intent.getStringExtra(MainActivity.EXTRA_MESSAGE);
         TextView titol = findViewById(R.id.tit);
         TextView subtitol = findViewById(R.id.sub);
@@ -34,17 +35,16 @@ public class SecondActivity extends AppCompatActivity {
                 break;
 
             case "salut":
-                ((TextView)findViewById(R.id.titol)).setText(R.string.title_salut);
-                ((TextView)findViewById(R.id.sub)).setText(R.string.subtitle_salut);
-                ((TextView)findViewById(R.id.sub)).setText(R.string.subtitle_salut);
-                ((TextView)findViewById(R.id.art)).setText(R.string.article_salut);
+                titol.setText(R.string.title_salut);
+                subtitol.setText(R.string.subtitle_salut);
+                article.setText(R.string.article_salut);
 
                 break;
 
             case "sport":
-                ((TextView)findViewById(R.id.titol)).setText(R.string.title_sports);
-                ((TextView)findViewById(R.id.sub)).setText(R.string.subtitle_sports);
-                ((TextView)findViewById(R.id.art)).setText(R.string.article_sports);
+                titol.setText(R.string.title_sports);
+                subtitol.setText(R.string.subtitle_sports);
+                article.setText(R.string.article_sports);
 
                 break;
 
@@ -53,9 +53,6 @@ public class SecondActivity extends AppCompatActivity {
                 break;
         }
 
-        // Capture the layout's TextView and set the string as its text
-        TextView textView = findViewById(R.id.sub);
-        textView.setText(message);
     }
 
 }

@@ -5,17 +5,63 @@
     <string name="subtitle_app">Please select a News section</string>
 
 
-    <string name="title_science">Titol Ciencia</string>
-    <string name="title_salut">Titol Salut</string>
-    <string name="title_sports">Titol Esports</string>
+    <string name="title_science">Luna llena febrero 2022: cuándo es la luna de nieve\n</string>
+    <string name="title_salut">Cómo la covid-19 brinda una oportunidad para mejorar la sanidad pública en África\n</string>
+    <string name="title_sports">Francia rectifica y no permitirá que Novak Djokovic participe en Roland Garros\n</string>
 
-    <string name="subtitle_science">Sub Ciencia</string>
-    <string name="subtitle_salut">Sub Salut</string>
-    <string name="subtitle_sports">Sub Esports</string>
+    <string name="subtitle_science">Este 2022 la luna llena del mes de febrero hará su aparición el miércoles, día 16, alcanzando su máxima iluminación a las 17.56 horas\n\n</string>
+    <string name="subtitle_salut">La pandemia ha expuesto debilidades, brechas y desigualdades en los sistemas sanitarios del continente, pero también ha ofrecido potenciales soluciones\n\n</string>
+    <string name="subtitle_sports">El Gobierno local avisa que todos los participantes deberán tener la pauta de vacunación completa\n\n</string>
 
-    <string name="article_science">Art Ciencia</string>
-    <string name="article_salut">Art Salut</string>
-    <string name="article_sports">Art Esports</string>
+    <string name="article_science">Esta semana, los aficionados a la astronomía pondrán la mirada en el cielo para observar la luna llena de febrero.\n\n
+
+    Este 2022 la luna llena del mes de febrero hará su aparición el miércoles, día 16, alcanzando su máxima iluminación a las 17.56 hora peninsular española.\n\n
+
+    A este segunda luna llena del año también se la conoce como Luna de Nieve.\n\n
+
+    Para ver la Luna Llena no es necesario disponer de instrumentos como telescopio o prismáticos, aunque nos permitirán apreciar más detalles de su superficie.\n\n
+
+    Lo más importante será situarnos en un punto elevado, sin obstáculos y en el que haya poca contaminación lumínica.\n\n
+
+    NOTICIA: https://www.elmundo.es/ciencia-y-salud/ciencia/2022/02/14/620a1f74fdddfffb298b458c.html</string>
+
+
+    <string name="article_salut">Los desafíos que supone la crisis del coronavirus son una oportunidad para que los sistemas de salud africanos vayan más allá de sus limitaciones actuales. Muchos países se han visto obligados a desarrollar enfoques más innovadores.\n\n
+
+    Los países africanos extendieron rápidamente la capacidad de diagnóstico y la genómica e incrementaron el uso de historiales médicos digitales. Las naciones y los sectores (público y privado) aunaron recursos en respuesta a los desafíos logísticos que supone ofrecer un programa coordinado de vacunación para adultos. Los recursos científicos de todo el continente, aunque limitados, se aunaron formando cooperaciones eficaces.\n\n
+
+    Estas experiencias, aprendizajes y soluciones, si se sustentan con apoyo del liderazgo político y la inversión financiera a largo plazo, pueden ser útiles para el desarrollo de sistemas de salud acordes al siglo XXI y al futuro. La sanidad pública africana y los líderes políticos deben identificar e invertir en aquello que funciona. Como profesional de la sanidad pública que trabaja para fortalecer los sistemas de salud a lo largo del continente africano desde hace muchos años, me gustaría plantear algunas reflexiones acerca de las oportunidades emergentes.\n\n
+
+    Un contexto útil para estas reflexiones proviene del director de los Centros de Control y Prevención de Enfermedades (CDC) de África, el doctor John Nkengasong, que describió cuatro elementos esenciales para un nuevo orden de salud pública en África: instituciones más fuertes, producción local, personal sanitario público y asociaciones respetuosas. Yo añadiría un quinto: ciudadanos empoderados.\n\n
+
+    NOTICIA: https://elpais.com/planeta-futuro/2022-02-14/como-la-covid-19-brinda-una-oportunidad-para-mejorar-la-sanidad-publica-en-africa.html</string>
+
+
+    <string name="article_sports">La rectificación llegó de la mano de la ministra de Deportes, Roxana Maracineanu, en la noche del domingo al lunes, horas después de que el Parlamento adoptara definitivamente el proyecto de ley que impondrá un certificado de vacunación para muchas actividades de la vida social, lo que incluye asistir a espectáculos deportivos.\n\n
+
+    \"Será obligatorio para entrar en los espacios ya sometidos al pasaporte sanitario (estadios, teatros o salones) para el conjunto de los espectadores, de los practicantes, de los profesionales, franceses o extranjeros\"\n\n
+
+    En un mensaje en su cuenta de Twitter, Maracineanu constató que se ha adoptado ese certificado sanitario, de forma que \"desde que se promulgue la ley, será obligatorio para entrar en los espacios ya sometidos al pasaporte sanitario (estadios, teatros o salones) para el conjunto de los espectadores, de los practicantes, de los profesionales, franceses o extranjeros\".\n\n
+
+    La ministra aprovechó para agradecer al movimiento deportivo su acción de \"convicción de los últimos y pocos no vacunados\" e insistió en que unos y otros tienen ahora intención de trabajar juntos para \"preservar las competiciones\" y promover el pasaporte de vacunación \"a nivel internacional\".\n\n
+
+    Había sido la misma Maracineanu la que el pasado 7 de enero, en pleno contencioso político y judicial en Australia por la presencia de Djokovic pese a su negativa a vacunarse, había señalado que el serbio sí podría participar en Roland Garros, programado entre finales de mayo y comienzos de junio.\n\n
+
+    La responsable francesa de Deportes argumentó entonces que Francia aplicaría una excepción a la obligación del certificado de vacunación a los deportistas en las competiciones internacionales, de forma que no se les aplicaría la nueva normativa francesa y podrían competir incluso sin estar inmunizados.\n\n
+
+    Lo justificó con el argumento de que en las competiciones internacionales rigen los \"protocolos obligatorios impuestos por las federaciones\" que, según dio a entender, estarían por encima de la normativa francesa.\n\n
+
+    Hay que tener en cuenta que, a diferencia de lo que ocurre en Australia, para entrar en Francia no hay que tener la pauta completa de vacunación imperativamente. Se puede llegar al país con un pasaporte sanitario que pruebe disponer de un test negativo en su lugar.\n\n
+
+    No obstante, el proyecto de ley sobre el certificado de vacunación que debe entrar en vigor a finales de esta semana (está todavía pendiente de un recurso ante el Consejo Constitucional) va a imponerlo para tomar algo en un bar o en un restaurante, para ir al cine, a un espectáculo o a un estadio, pero también para utilizar los transportes públicos de larga distancia (autobuses, trenes, aviones o barcos).\n\n
+
+    El Gobierno australiano ha confirmado, a través de la ministra de Asuntos Internos, Karen Andrews, que el tenista no tendrá la opción de lograr un visado durante los tres próximos años. De esta forma se acaba la aventura del serbio en un "Grand Slam" que ha ganado en nueve ocasiones, más que nadie en la historia del torneo.\n\n
+
+    \"La sanción a Djokovic podría verse recortada si se dan las circunstancias correctas\"\n\n
+
+    El primer ministro Scott Morrison ha matizado las palabras de su colega y ha afirmado que \"la sanción podría verse recortada si se dan las circunstancias correctas\". Eso pasa por vacunarse, algo que no contempla ahora mismo el jugador serbio.\n\n
+
+    NOTICIA: https://www.marca.com/tenis/2022/01/17/61e526fb22601da7148b45be.html</string>
 
 
     <string name="textUrl">Or open the news you like</string>
